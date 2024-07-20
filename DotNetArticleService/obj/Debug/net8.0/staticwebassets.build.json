@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/9W4ij6ACiGvQL4G0fnlfE+Kf5ouSXNZsTAo1hoyifM=",
+  "Source": "DotNetArticleService",
+  "BasePath": "_content/DotNetArticleService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
