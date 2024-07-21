@@ -1,10 +1,12 @@
-﻿using Domain.Entities;
+﻿using Domain.Dto;
+using Domain.Entities;
 using Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Controllers
 {
     [ApiController]
+    [Route("api/[controller]")]
     public class ArticleController : ControllerBase
     {
         private readonly IArticleService _articleService;
@@ -14,8 +16,7 @@ namespace Controllers
             _articleService = articleService;
         }
 
-        [Route("api/articles/create")]
-        [HttpPost]
+        [HttpPost("create")]
         public async Task<IActionResult> Create([FromBody] CreateDto createDto)
         {
             if (createDto == null)
@@ -34,9 +35,8 @@ namespace Controllers
             return Ok(articleDto);
         }
 
-        [Route("api/articles")]
-        [HttpGet]
-        public async Task<IActionResult> Get([FromBody] FindDto findDto)
+        [HttpGet("find")]
+        public async Task<IActionResult> Find([FromQuery] FindDto findDto)
         {
             if (findDto == null)
             {

@@ -12,9 +12,9 @@ namespace Domain.Services
 {
     public class ArticleService : IArticleService
     {
-        private readonly IArticleService _articleRepository;
+        private readonly IArticleRepository _articleRepository;
 
-        public ArticleService(IArticleService articleRepository)
+        public ArticleService(IArticleRepository articleRepository)
         {
             _articleRepository = articleRepository;
         }
