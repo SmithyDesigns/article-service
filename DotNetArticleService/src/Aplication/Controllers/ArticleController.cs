@@ -2,7 +2,7 @@
 using Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DotNetArticleService.Controllers
+namespace Controllers
 {
     [ApiController]
     public class ArticleController : ControllerBase

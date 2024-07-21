@@ -1,4 +1,4 @@
-using DotNetArticleService.Domain.Interfaces;
+using Domain.Interfaces;
 
 namespace DotNetArticleService
 {
