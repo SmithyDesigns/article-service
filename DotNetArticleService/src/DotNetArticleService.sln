@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetArticleService", "DotNetArticleService\DotNetArticleService.csproj", "{E5074791-4CF0-4FCE-922C-5DD2EA5B117C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetArticleService.Domain", "DotNetArticleService.Domain\DotNetArticleService.Domain.csproj", "{DD4B22D7-1A8A-4BD7-8A53-5C3639400BE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "src", "DotNetArticleService.csproj", "{E5074791-4CF0-4FCE-922C-5DD2EA5B117C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
