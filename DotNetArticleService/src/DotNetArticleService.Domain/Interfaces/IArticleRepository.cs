@@ -1,13 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using DotNetArticleService.Domain.Dto;
 using DotNetArticleService.Domain.Entities;
-using MyProject.Models;
-using MyProject.Models.Dto;
-using MyProject.src.Application.Dto;
 
-namespace MyProject.Interfaces
+namespace DotNetArticleService.Domain.Interfaces
 {
     public interface IArticleRepository
     {

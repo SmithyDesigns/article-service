@@ -1,14 +1,12 @@
 using System.ComponentModel.Design;
+using DotNetArticleService.Domain.Data;
+using DotNetArticleService.Domain.Dto;
 using DotNetArticleService.Domain.Entities;
+using DotNetArticleService.Domain.Exceptions;
+using DotNetArticleService.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using MyProject.Data;
-using MyProject.Interfaces;
-using MyProject.Models.Dto;
-using MyProject.src.Application.Dto;
-using MyProject.src.Domain.Models.Exceptions;
-using MyProject.src.Domain.ValueObjects;
 
-namespace MyProject.Repositories
+namespace DotNetArticleService.Domain.Repositories
 {
     public class ArticleRepository : IArticleRepository
     {

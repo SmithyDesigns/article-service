@@ -2610,11 +2610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/willemsmithmoolman/Desktop/VsCode/dotnet-article-service-public/DotNetArticleService/src/DotNetArticleService/DotNetArticleService.csproj",
+      "projectUniqueName": "/Users/willemsmithmoolman/Desktop/VsCode/article-service/DotNetArticleService/src/DotNetArticleService.Aplication/DotNetArticleService.csproj",
       "projectName": "DotNetArticleService",
-      "projectPath": "/Users/willemsmithmoolman/Desktop/VsCode/dotnet-article-service-public/DotNetArticleService/src/DotNetArticleService/DotNetArticleService.csproj",
+      "projectPath": "/Users/willemsmithmoolman/Desktop/VsCode/article-service/DotNetArticleService/src/DotNetArticleService.Aplication/DotNetArticleService.csproj",
       "packagesPath": "/Users/willemsmithmoolman/.nuget/packages/",
-      "outputPath": "/Users/willemsmithmoolman/Desktop/VsCode/dotnet-article-service-public/DotNetArticleService/src/DotNetArticleService/obj/",
+      "outputPath": "/Users/willemsmithmoolman/Desktop/VsCode/article-service/DotNetArticleService/src/DotNetArticleService.Aplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/willemsmithmoolman/.nuget/NuGet/NuGet.Config"

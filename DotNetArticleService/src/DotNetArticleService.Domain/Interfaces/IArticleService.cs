@@ -1,6 +1,5 @@
-﻿using DotNetArticleService.Domain.Entities;
-using MyProject.Models.Dto;
-using MyProject.src.Application.Dto;
+﻿using DotNetArticleService.Domain.Dto;
+using DotNetArticleService.Domain.Entities;
 
 namespace DotNetArticleService.Domain.Interfaces
 {

@@ -3,11 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DotNetArticleService.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
-using MyProject.Models;
-using MyProject.src.Domain.ValueObjects;
-
-namespace MyProject.Data
+namespace DotNetArticleService.Domain.Data
 {
     public class MyDbContext : DbContext
     {

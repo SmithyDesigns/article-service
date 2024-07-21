@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5AZbxMNMAb3nHvLkOBd3eQtOSNeZDWPHBf/7akvrFXiUi/jSsI3PX+zyPg153BckaP8krbnUu7sc2+ZQfhzvw==",
+  "dgSpecHash": "1D3xiMhZe+/AM2dkqimk6gOSUiLOSzrqYKkgk9jhEiaBwVNnYzBeZTErSUhL1f1V8FA7Wxue2UM7kcXdKyMBRQ==",
   "success": true,
-  "projectFilePath": "/Users/willemsmithmoolman/Desktop/VsCode/dotnet-article-service-public/DotNetArticleService/src/DotNetArticleService.Domain/DotNetArticleService.Domain.csproj",
+  "projectFilePath": "/Users/willemsmithmoolman/Desktop/VsCode/article-service/DotNetArticleService/src/DotNetArticleService.Domain/DotNetArticleService.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/willemsmithmoolman/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/willemsmithmoolman/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

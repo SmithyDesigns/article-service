@@ -1,8 +1,4 @@
-﻿using DotNetArticleService.Domain.Entities;
-using DotNetArticleService.Domain.Interfaces;
-using Microsoft.AspNetCore.Mvc;
-using MyProject.Models.Dto;
-using MyProject.src.Application.Dto;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace DotNetArticleService.Controllers
 {

@@ -1,8 +1,8 @@
 namespace DotNetArticleService.Domain.Dto
 {
-    public class FindDto
+    public class ArticleDto
     {
-        private int Id { get; set;}
         public required string? Title { get; set; }
+        public required string? Html { get; set; }
     }
 }

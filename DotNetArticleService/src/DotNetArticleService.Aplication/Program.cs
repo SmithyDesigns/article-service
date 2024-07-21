@@ -1,9 +1,3 @@
-using MyProject.Interfaces;
-using MyProject.Services;
-using DotNetArticleService.Domain.Interfaces;
-using MyProject.Data;
-using MyProject.Repositories;
-
 namespace DotNetArticleService
 {
     public class Program

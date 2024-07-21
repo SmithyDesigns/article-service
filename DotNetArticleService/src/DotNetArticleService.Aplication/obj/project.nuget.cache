@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oPAufzARpM3SEYhRWhB8L9shDPTZyJSJMDejziTvAuDghVb7b47bS7AT8A/oaoPJ8ROKXlcGC1DoDSIg8Cotbw==",
+  "dgSpecHash": "+SRaJE2RVYhnzo0YrlPBgJ/p4b8Qc75HtFygccAZgp2zNyb12JLBdY8YnC1bcyYzTYU6RZkZJu3TSScFCzQ5XA==",
   "success": true,
-  "projectFilePath": "/Users/willemsmithmoolman/Desktop/VsCode/dotnet-article-service-public/DotNetArticleService/src/DotNetArticleService/DotNetArticleService.csproj",
+  "projectFilePath": "/Users/willemsmithmoolman/Desktop/VsCode/article-service/DotNetArticleService/src/DotNetArticleService.Aplication/DotNetArticleService.csproj",
   "expectedPackageFiles": [
     "/Users/willemsmithmoolman/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/willemsmithmoolman/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

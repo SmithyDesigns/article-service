@@ -1,17 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using DotNetArticleService.Domain.Dto;
 using DotNetArticleService.Domain.Entities;
+using DotNetArticleService.Domain.Exceptions;
 using DotNetArticleService.Domain.Interfaces;
-using MyProject.Data;
-using MyProject.Interfaces;
-using MyProject.Models;
-using MyProject.Models.Dto;
-using MyProject.src.Application.Dto;
-using MyProject.src.Domain.Models.Exceptions;
+using Microsoft.EntityFrameworkCore;
 
-namespace MyProject.Services
+namespace DotNetArticleService.Domain.Services
 {
     public class ArticleService : IArticleService
     {
